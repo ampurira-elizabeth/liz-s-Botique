@@ -1,0 +1,24 @@
+body{
+background-color: rgb(226, 190, 137);
+}
+.p1{
+    text-align: right;
+    text-decoration: none;
+}
+.p1 p{
+text-align: left;
+}
+.images img{
+margin: 50px;
+height: 500px;
+width: 500px;
+border: solid 10px rgb(255, 196, 0);
+border-radius: 20px;
+}
+button{
+    background-color: yellow;
+    margin-left: 500px;
+    border-radius: 20px;
+    height: 50px;
+    text-underline-position: none;
+}
