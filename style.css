@@ -118,7 +118,8 @@ section {
     margin: 60px;
     background-color: white;
 }
-.svc1 img{
+
+.svc1 img {
     width: 200px;
     height: 200px;
 }
@@ -135,7 +136,8 @@ section {
     margin: 60px;
     background-color: white;
 }
-.svc2 img{
+
+.svc2 img {
     width: 200px;
     height: 200px;
 }
@@ -154,7 +156,8 @@ section {
 .sev1 p {
     color: rgb(120, 120, 156);
 }
-.sec1 img{
+
+.sec1 img {
     width: 200px;
     height: 200px;
 }
@@ -223,11 +226,12 @@ span {
     border: 45px solid rgb(210, 226, 233);
 
 }
- 
+
 .staff img {
-    width: 60%;
+    width: 55%;
     height: 230px;
 }
+
 .imge img {
     height: 300px;
     width: 370px;
@@ -292,6 +296,7 @@ span {
     height: 430px;
     background-color: rgb(240, 235, 226);
 }
+
 .doc1 p {
     color: rgb(120, 120, 156);
 }
@@ -373,9 +378,21 @@ span {
 .mission {
     padding-left: 100px;
     margin: 70px;
+    width: 500px;
     background-color: white;
     background-size: cover;
 
+}
+.bton{
+     margin-bottom: 50px; 
+    font-size: large;
+    box-shadow:10px 10px rgb(29, 202, 224) ;
+  color: black ;
+  text-align: center;
+  height: 60px;
+  margin-left: 1000px;
+  border-radius: 20px;
+  background-color: rgb(167, 137, 196);
 }
 
 .str {
@@ -403,10 +420,11 @@ span {
 .staff {
 
     padding-left: 100px;
-    margin: 70px;
+    margin: 60px;
     background-color: white;
     background-size: cover;
 }
+
 .staff h6 {
     color: rgb(120, 120, 156);
     padding-left: 25%;
@@ -426,6 +444,7 @@ span {
     color: rgb(230, 253, 253);
     font-size: 70px;
 }
+
 .thanks {
     display: inline-flex;
     padding-bottom: 40px;
@@ -523,7 +542,7 @@ span {
     text-align: center;
     font-family: sans-serif;
     border-radius: 10px;
-    
+
 }
 
 

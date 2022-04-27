@@ -1,0 +1,30 @@
+body {
+    background-color: bisque;
+
+}
+
+h1 {
+    color: blue;
+    text-shadow: 5px 5px rgb(141, 189, 228);
+    text-align: center;
+
+}
+
+h3 {
+    text-align: center;
+}
+
+h6 {
+    text-align: center;
+}
+
+.contact {
+    border-style: dotted 400px;
+    padding-top: 70px;
+}
+
+button {
+    background-color: aquamarine;
+    height: 50px;
+    border-radius: 10px;
+}
